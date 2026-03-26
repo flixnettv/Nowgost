@@ -1,2 +1,0 @@
-# Nowgost
-Gost2
